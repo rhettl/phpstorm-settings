@@ -3,4 +3,5 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="SavaAs" />
+  <action id="SaveAs" />
 </keymap>
